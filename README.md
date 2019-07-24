@@ -1,17 +1,20 @@
-# Project Title
+# PATHFINDER AUGMENTED REALITY EXTENSION
 
-One Paragraph of project description goes here
+Mobile extension for UCB-IMT-Pathfinder project that draws the best path calculated by Pathfinder over the real world using AR.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Its designed for iPad devices.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need:
 
 ```
-Give examples
+iPad with AR-KIT support
+iOS 11+
+The Pathfinder-Marker for the AR focus.
+
 ```
 
 ### Installing
