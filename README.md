@@ -1,5 +1,5 @@
 # PATHFINDER AUGMENTED REALITY EXTENSION
-#INDEV
+# INDEV
 Mobile extension for UCB-IMT-Pathfinder project that draws the best path calculated by Pathfinder over the real world using AR.
 
 ## Getting Started
